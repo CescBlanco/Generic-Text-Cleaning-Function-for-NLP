@@ -1,0 +1,1 @@
+RED NEURONAL--> Modelo inspirado en el cerebro humano, formado por capas de neuronas artificiales que aprenden a resolver problemas mediante entrenamiento con datos.
